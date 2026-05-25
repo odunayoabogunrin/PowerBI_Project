@@ -137,6 +137,10 @@ The dataset used for this project contains HR-related information including:
 
 - Software Engineering roles dominate the workforce composition
 
+## Dashboard Preview
+<img width="785" height="446" alt="HR Dashboard" src="https://github.com/user-attachments/assets/2ade20df-5465-4041-9838-62e538ae6f7c" />
+
+
 ## Business Value of Dashboard
 
 This dashboard helps HR teams to:
