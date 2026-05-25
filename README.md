@@ -68,7 +68,15 @@ The primary goals of this dashboard are to:
 
 ### Tools & Technologies Used
 
-**Tool and Purpose**          
+
+| Tools                     | Purpose                                    |
+|---------------------------|--------------------------------------------|
+| Power BI                  | Dashboard creation & visualization         |
+| Power Query               | Data cleaning & transformation             |
+| DAX                       | Calculated measures & KPIs                 |
+| Excel / CSV               | Data source preparation                    |
+
+
 
 Power BI      -     Dashboard creation & visualization
 
