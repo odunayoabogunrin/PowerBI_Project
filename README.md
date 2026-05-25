@@ -68,168 +68,101 @@ The primary goals of this dashboard are to:
 
 ### Tools & Technologies Used
 
-Tool              Purpose
+**Tool and Purpose**          
 
-Power BI          Dashboard creation & visualization
+Power BI      -     Dashboard creation & visualization
 
-Power Query       Data cleaning & transformation
+Power Query   -    Data cleaning & transformation
 
-DAX               Calculated measures & KPIs
+DAX           -   Calculated measures & KPIs
 
-Excel / CSV       Data source preparation
+Excel / CSV   -    Data source preparation
 
-Dataset Description
 
+### Dataset Description
 
 The dataset used for this project contains HR-related information including:
 
-Employee ID
+- Employee ID
 
-Gender
+- Gender
 
-Age
+- Age
 
-Department
+- Department
 
-Job Role
+- Job Role
 
-Education Level
+- Education Level
 
-Hiring Status
+- Hiring Status
 
-Termination Status
+- Termination Status
 
-Recruitment Year
+- Recruitment Year
 
+**Note:** The dataset used is for portfolio/demo purposes only.
 
+## Key Insights
 
-Note: The dataset used is for portfolio/demo purposes only.
-Key Insights
+### Workforce Overview
 
+- Total workforce consists of 1000 employees
 
-Workforce Overview
-Total workforce consists of 1000 employees
+- Nearly equal distribution between active and terminated employees
 
-Nearly equal distribution between active and terminated employees
+### Gender Distribution
 
+- Workforce maintains a relatively balanced gender representation
 
+### Age Analysis
 
-Gender Distribution
-Workforce maintains a relatively balanced gender representation
+- Majority of employees fall within the 26–45 age range
 
+- Lower workforce concentration in younger and older age brackets
 
+### Department Trends
 
-Age Analysis
-Majority of employees fall within the 26–45 age range
+- Technology department has the highest recruitment numbers
 
-Lower workforce concentration in younger and older age brackets
+- Customer Service and Sales also contribute significantly to workforce size
 
+### Educational Background
 
+- Most employees possess undergraduate qualifications
 
-Department Trends
-Technology department has the highest recruitment numbers
+- Smaller representation from graduate and PhD holders
 
-Customer Service and Sales also contribute significantly to workforce size
+### Job Role Distribution
 
+- Software Engineering roles dominate the workforce composition
 
-
-Educational Background
-Most employees possess undergraduate qualifications
-
-Smaller representation from graduate and PhD holders
-
-
-
-Job Role Distribution
-Software Engineering roles dominate the workforce composition
-
-Dashboard Preview
-
-
-Main Dashboard
-
-
-The dashboard includes:
-
-Interactive visual filters
-
-Dynamic charts
-
-Department comparisons
-
-Demographic analytics
-
-KPI summary cards
-
-Business Value
-
+## Business Value of Dashboard
 
 This dashboard helps HR teams to:
 
-Improve workforce planning
+- Improve workforce planning
 
-Monitor employee retention
+- Monitor employee retention
 
-Identify hiring gaps
+- Identify hiring gaps
 
-Track department performance
+- Track department performance
 
-Support diversity analysis
+- Support diversity analysis
 
-Enable data-driven HR strategy
-
-Skills Demonstrated
+- Enable data-driven HR strategy
 
 
-This project highlights proficiency in:
+### How to Use
 
-Data Cleaning
+- Clone this repository
 
-Data Modeling
+- Open the .pbix file in Power BI Desktop
 
-DAX Calculations
+- Refresh the dataset if needed
 
-Data Visualization
-
-HR Analytics
-
-Dashboard Design
-
-Business Intelligence Reporting
-
-Insight Communication
-
-Sample DAX Measures
-
-
-Total Employees
-Total Employees = COUNT(Employee[Employee ID])
-
-Future Improvements
-
-
-Potential enhancements for future versions:
-
-Employee attrition prediction
-
-Diversity & inclusion analytics
-
-Salary and compensation analysis
-
-Employee performance tracking
-
-Real-time HR data integration
-
-Drill-through employee-level reporting
-
-How to Use
-Clone this repository
-
-Open the .pbix file in Power BI Desktop
-
-Refresh the dataset if needed
-
-Explore the interactive dashboard visuals
+- Explore the interactive dashboard visuals
 
 
 
